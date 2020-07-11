@@ -7,17 +7,17 @@ export default function Navbar() {
 			<img src={logo} alt='city tours company' />
 			<ul className='nav-links'>
 				<li>
-					<a className='nav-link' href=''>
+					<a className='nav-link' href='/'>
 						home
 					</a>
 				</li>
 				<li>
-					<a className='nav-link' href=''>
+					<a className='nav-link' href='/'>
 						about
 					</a>
 				</li>
 				<li>
-					<a className='nav-link active' href=''>
+					<a className='nav-link active' href='/'>
 						tours
 					</a>
 				</li>
